@@ -7,3 +7,9 @@ echo "Egressy";
 /* több
  soros
  */
+
+/*Escape szekvenciák
+ * \n \t \r \a
+ */
+ 
+ echo ("Valami\nmásvalami"); 
